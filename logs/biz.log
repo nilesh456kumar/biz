@@ -1,0 +1,15 @@
+2019-03-06 11:33:29.894  INFO 14896 --- [restartedMain] com.cap.biz.BizApplication               : Starting BizApplication on LIN51005771 with PID 14896 (C:\Users\niljaisw\Documents\work-space-unittest\biz\bin\main started by niljaisw in C:\Users\niljaisw\Documents\work-space-unittest\biz)
+2019-03-06 11:33:29.912 DEBUG 14896 --- [restartedMain] com.cap.biz.BizApplication               : Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-03-06 11:33:29.916  INFO 14896 --- [restartedMain] com.cap.biz.BizApplication               : No active profile set, falling back to default profiles: default
+2019-03-06 11:33:41.258  INFO 8956 --- [restartedMain] com.cap.biz.BizApplication               : Starting BizApplication on LIN51005771 with PID 8956 (C:\Users\niljaisw\Documents\work-space-unittest\biz\bin\main started by niljaisw in C:\Users\niljaisw\Documents\work-space-unittest\biz)
+2019-03-06 11:33:41.266 DEBUG 8956 --- [restartedMain] com.cap.biz.BizApplication               : Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-03-06 11:33:41.268  INFO 8956 --- [restartedMain] com.cap.biz.BizApplication               : No active profile set, falling back to default profiles: default
+2019-03-06 11:33:42.873  INFO 8956 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-03-06 11:33:42.905  INFO 8956 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 20ms. Found 0 repository interfaces.
+2019-03-06 11:33:43.372  INFO 8956 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$579f78fc] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-03-06 11:33:44.548  INFO 8956 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3232 ms
+2019-03-06 11:33:48.718  INFO 8956 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-06 11:33:49.485  INFO 8956 --- [restartedMain] com.cap.biz.BizApplication               : Started BizApplication in 8.637 seconds (JVM running for 10.255)
+2019-03-06 11:34:35.916  INFO 8956 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-03-06 11:34:35.928  INFO 8956 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 11 ms
+2019-03-06 11:38:12.902  INFO 8956 --- [RMI TCP Connection(2)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
